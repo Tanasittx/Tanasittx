@@ -7,3 +7,4 @@
 -->
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=Tanasittx" alt="visitor badge"/>
+<img src="https://img.shields.io/github/followers/Tanasittx" alt="follower badge"/>
