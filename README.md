@@ -12,6 +12,6 @@
 - <img src="https://img.shields.io/github/followers/Tanasittx" alt="follower badge"/>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tanasittx&show_icons=true&theme=dark)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tanasittx&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanasittx&show_icons=true&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanasittx&theme=dark)
