@@ -6,4 +6,4 @@
 - 📫 How to reach me: Suvorexant#8929
 -->
 
-<img src="https://visitor-badge.glitch.me/badge?Tanasittx" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Tanasittx" alt="visitor badge"/>
