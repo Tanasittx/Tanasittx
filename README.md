@@ -5,7 +5,7 @@
 
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qlyyep5fpmpoqfvtjyq9biej5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=mkathciyhulhq0wd9nz0jyp0l&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mkathciyhulhq0wd9nz0jyp0l&cover_image=true&theme=default)]]
 
 - Discord : Suvorexant#8929
 - <img src="https://visitor-badge.glitch.me/badge?page_id=Tanasittx" alt="visitor badge"/>
